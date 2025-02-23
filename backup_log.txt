@@ -1,2 +1,17 @@
 20250223_165920 - Git backup script started
 20250223_165920 - Adding changes to Git repository
+warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF the next time Git touches it
+20250223_165920 - Committing changes to Git repository
+[master 88b7324] Backup: 20250223_165920
+ 4 files changed, 54 insertions(+)
+ create mode 100644 $LOG_FILE
+ create mode 100644 123.txt
+ create mode 100644 backup_log.txt
+ create mode 100644 git_backup.sh
+20250223_165920 - Pushing changes to remote repository
+To github.com:Orioner722/gamesavedfile.git
+   1853f05..88b7324  master -> master
+20250223_165920 - Successfully committed and pushed to GitHub
+20250223_165920 - Git backup script ended
+20250223_165958 - Git backup script started
+20250223_165958 - Adding changes to Git repository
