@@ -26,3 +26,17 @@ To github.com:Orioner722/gamesavedfile.git
 20250223_165958 - Git backup script ended
 20250223_170058 - Git backup script started
 20250223_170058 - Adding changes to Git repository
+warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF the next time Git touches it
+20250223_170058 - Committing changes to Git repository
+[master de85bd7] Backup: 20250223_170058
+ 4 files changed, 15 insertions(+)
+ create mode 100644 "Dyson/2025_02_23_\345\221\250\346\227\245_17_00/Unity/local.8adb4ed10537e8a49919dfb8f6bb4a39/Analytics/config"
+ create mode 100644 "Dyson/2025_02_23_\345\221\250\346\227\245_17_00/Unity/local.8adb4ed10537e8a49919dfb8f6bb4a39/Analytics/values"
+ create mode 100644 "Dyson/2025_02_23_\345\221\250\346\227\245_17_00/output_log.txt"
+20250223_170058 - Pushing changes to remote repository
+To github.com:Orioner722/gamesavedfile.git
+   ae0ecf5..de85bd7  master -> master
+20250223_170058 - Successfully committed and pushed to GitHub
+20250223_170058 - Git backup script ended
+20250223_184958 - Git backup script started
+20250223_184958 - Adding changes to Git repository
