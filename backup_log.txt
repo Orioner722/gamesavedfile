@@ -15,3 +15,14 @@ To github.com:Orioner722/gamesavedfile.git
 20250223_165920 - Git backup script ended
 20250223_165958 - Git backup script started
 20250223_165958 - Adding changes to Git repository
+warning: in the working copy of 'backup_log.txt', LF will be replaced by CRLF the next time Git touches it
+20250223_165958 - Committing changes to Git repository
+[master ae0ecf5] Backup: 20250223_165958
+ 2 files changed, 16 insertions(+), 1 deletion(-)
+20250223_165958 - Pushing changes to remote repository
+To github.com:Orioner722/gamesavedfile.git
+   88b7324..ae0ecf5  master -> master
+20250223_165958 - Successfully committed and pushed to GitHub
+20250223_165958 - Git backup script ended
+20250223_170058 - Git backup script started
+20250223_170058 - Adding changes to Git repository
